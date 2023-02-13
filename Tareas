@@ -1,6 +1,6 @@
 $ cd             # volver al directorio de inicio
-$ mkdir Dimplomado_Ciencia_Datos  # crear un nuevo diretorio llamado planets
-$ cd planets     # entrar al directorio planets
+$ mkdir Tareas  # crear un nuevo diretorio llamado planets
+$ cd Dimplomado_Ciencia_Datos     # entrar al directorio planets
 $ git init       # hacer del directorio planets directory un repositorio Git
 $ mkdir moons    # crear un subdirectorio planets/moons
 $ cd moons       # entrar al directorio planets/moons
